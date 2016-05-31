@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Using ES6 in the Browser Today",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "bencentra",
+    "githubRepository": "using-es6-slides"
+  }
+}
