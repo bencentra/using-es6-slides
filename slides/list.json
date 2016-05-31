@@ -3,5 +3,7 @@
     "agenda.md",
     "what-is-es2015.md",
     "why-transpile.md",
-    "why-babel.md"
+    "babel.md",
+    "example-grunt.md",
+    "example-grunt-2.md"
 ]

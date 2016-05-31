@@ -8,6 +8,8 @@ Use a __transpiler__ such as [Babel](https://babeljs.io/) to compile ES2016 to E
 
 > "So, shouldn't we just wait until the browsers catch up to use ES2015?"
 
+
+
 Note:
 
 [ES2015](https://babeljs.io/docs/learn-es2015/) (aka ES6) is the newest version of the ECMAScript standard. JavaScript is based on this standard.
