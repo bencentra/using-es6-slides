@@ -4,9 +4,9 @@
 
 Browsers are [still implementing](http://kangax.github.io/compat-table/es6/) ES2015 features.
 
-Use a __transpiler__ such as [Babel](https://babeljs.io/) to compile ES2016 to ES5.
+Use a __transpiler__ such as [Babel](https://babeljs.io/) to compile ES2015 to ES5.
 
-> "So, shouldn't we just wait until the browsers catch up to use ES2015?"
+> "Shouldn't we just wait until the browsers catch up to use ES2015?"
 
 
 

@@ -2,8 +2,9 @@
     "index.md",
     "agenda.md",
     "what-is-es2015.md",
+    "no.md",
     "why-transpile.md",
     "babel.md",
-    "example-grunt.md",
+    "example-grunt-1.md",
     "example-grunt-2.md"
 ]

@@ -3,6 +3,5 @@
 * What is ES2015?
 * Why Transpile?
 * Examples
-    * Grunt
-    * Webpack
-    * Browserify
+    * Grunt (with AMD)
+    * Webpack (with CommonJS)
