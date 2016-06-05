@@ -1,11 +1,11 @@
 ##  Babel
 
-[Babel](https://babeljs.io/) "is a JavaScript compiler" that includes:
+[Babel](https://babeljs.io/) is a "JavaScript compiler" that includes:
 
 * **Syntax transformers:** `class`, `let` and `const`, `=>`
 * **Polyfills:** Promises, Map and Set, Object.assign()
 
-CLI plus integration with common tools (Grunt, Karma, etc).
+CLI + integration with common tools (Grunt, Karma, etc).
 
 
 
