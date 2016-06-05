@@ -1,4 +1,4 @@
-##  Example: Webpack
+##  Example: [Webpack](https://github.com/bencentra/using-es6-slides/tree/master/examples/webpack-commonjs)
 
 Install `webpack` and other dependencies:
 
@@ -26,3 +26,5 @@ Webpack doesn't replace Grunt entirely, just the concatenation and bundling step
 Install `webpack` and the required Babel dependencies, including Webpack's loader for babel, `babel-loader`.
 
 Create the `.babelrc` file, same as always.
+
+Code: https://github.com/bencentra/using-es6-slides/tree/master/examples/webpack-commonjs

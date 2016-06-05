@@ -14,7 +14,7 @@ Use [grunt-babel](https://github.com/babel/grunt-babel) for transpiling
 
 Note:
 
-Grunt is a "JavaScript Task Runner."
+[Grunt](http://gruntjs.com/) is a "JavaScript Task Runner."
 
 You're probably already using Grunt (or maybe Gulp) to create automated work flows for: unit tests, concatenation, minification, maybe even compiling Coffeescript!
 

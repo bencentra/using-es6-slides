@@ -29,3 +29,5 @@ All you need is `babel-cli` and the ES2015 preset.
 Create a `.babelrc` file to tell Babel what features to transpile, using the ES2015 preset.
 
 To transpile, run the `babel` command (or save to an NPM script)
+
+Code: https://github.com/bencentra/using-es6-slides/tree/master/examples/basic

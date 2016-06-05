@@ -12,6 +12,6 @@ Note:
 
 There will always be an ["ES Next"](http://kangax.github.io/compat-table/esnext/) made up of future specifications at various stages of readiness.
 
-We assume that browsers will always be behind in implementing these features.
+Browsers will always lag behind the spec while they implement the new features.
 
 Using a transpiler ensures you will always have access to the newest features while ensuring backwards compatibility.

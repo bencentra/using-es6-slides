@@ -2,6 +2,7 @@
     "index.md",
     "agenda.md",
     "what-is-es2015.md",
+    "wait.md",
     "no.md",
     "why-transpile.md",
     "babel.md",
@@ -16,5 +17,7 @@
     [
         "example-webpack-1.md",
         "example-webpack-2.md"
-    ]
+    ],
+    "more-options.md",
+    "questions.md"
 ]

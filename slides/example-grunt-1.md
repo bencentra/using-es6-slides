@@ -19,3 +19,5 @@ Note:
 Babel maintains the `grunt-babel` plugin to add transpilation to your existing build workflow.
 
 Install the dependencies and create a `.babelrc` file.
+
+Code: https://github.com/bencentra/using-es6-slides/tree/master/examples/grunt-amd
