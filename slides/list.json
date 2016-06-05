@@ -6,9 +6,15 @@
     "why-transpile.md",
     "babel.md",
     "example-basic.md",
+    "grunt.md",
     [
-      "example-grunt-1.md",
-      "example-grunt-2.md",
-      "example-grunt-3.md"
+        "example-grunt-1.md",
+        "example-grunt-2.md",
+        "example-grunt-3.md"
+    ],
+    "webpack.md",
+    [
+        "example-webpack-1.md",
+        "example-webpack-2.md"
     ]
 ]

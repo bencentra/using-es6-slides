@@ -1,6 +1,6 @@
 ##  Example: [Basic](https://github.com/bencentra/using-es6-slides/tree/master/examples/basic)
 
-Install some dependencies:
+Install dependencies:
 
 ```bash
 npm install --save-dev babel-cli babel-preset-es2015
