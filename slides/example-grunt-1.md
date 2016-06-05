@@ -17,3 +17,7 @@ Create a `.babelrc` file with the [ES2015 preset](http://babeljs.io/docs/plugins
 Note:
 
 You're probably already using Grunt for unit tests, concatenation, minification, maybe even compiling Coffeescript!
+
+Babel maintains the `grunt-babel` plugin to add transpilation to your existing build workflow.
+
+Install the dependencies and create a `.babelrc` file.
