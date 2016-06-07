@@ -4,6 +4,6 @@
 * Why Transpile?
 * Babel
 * Examples
-  * Basic (CLI)
+  * CLI
   * Grunt
   * Webpack

@@ -1,4 +1,6 @@
-##  Example: [Grunt](https://github.com/bencentra/using-es6-slides/tree/master/examples/grunt-amd)
+##  Example: Grunt
+
+[Sample Code](https://github.com/bencentra/using-es6-slides/tree/master/examples/grunt-amd)
 
 Install dependencies:
 
@@ -13,6 +15,8 @@ Create a `.babelrc` file with the [ES2015 preset](http://babeljs.io/docs/plugins
   "presets": ["es2015"]
 }
 ```
+
+
 
 Note:
 

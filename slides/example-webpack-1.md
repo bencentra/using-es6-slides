@@ -1,4 +1,6 @@
-##  Example: [Webpack](https://github.com/bencentra/using-es6-slides/tree/master/examples/webpack-commonjs)
+##  Example: webpack
+
+[Sample Code](https://github.com/bencentra/using-es6-slides/tree/master/examples/webpack-commonjs)
 
 Install `webpack` and other dependencies:
 

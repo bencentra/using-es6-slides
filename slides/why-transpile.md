@@ -10,7 +10,7 @@ __You need a transpiler to write tomorrow's JS today.__
 
 Note:
 
-There will always be an ["ES Next"](http://kangax.github.io/compat-table/esnext/) made up of future specifications at various stages of readiness.
+There will always be an ["ES Next"](http://kangax.github.io/compat-table/esnext/) made up of future specification proposals at varying stages of readiness.
 
 Browsers will always lag behind the spec while they implement the new features.
 
