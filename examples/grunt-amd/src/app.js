@@ -1,16 +1,23 @@
-import Summer from 'src/summer';
+import Adder from 'src/adder';
 
 class App {
 
   constructor(initialValue = 0) {
-    this.summer = new Summer();
+    this.adder = new Adder();
     this.initialValue = initialValue;
-    console.log(`The initial value is ${this.initialValue}`);
+    this.print('Grunt + AMD Example!');
+    this.print(`The initial value is ${this.initialValue}`);
   }
 
   addManyNumbers(...numbers) {
-    const sum = this.initialValue + this.summer.addManyNumbers(numbers);
-    console.log(`The sum is ${sum}`);
+    const sum = this.initialValue + this.adder.addManyNumbers(numbers);
+    this.print(`The sum is ${sum}`);
+  }
+
+  print(string) {
+    const p = document.createElement('p');
+    p.textContent = string;
+    document.body.appendChild(p);
   }
 
 }

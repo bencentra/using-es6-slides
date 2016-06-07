@@ -1,6 +1,6 @@
 requirejs.config({
   paths: {
-    src: 'dist/src'
+    src: './dist/src'
   }
 });
 

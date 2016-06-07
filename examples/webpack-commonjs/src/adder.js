@@ -2,7 +2,7 @@ const addTwoNumbers = (a, b) => {
   return a + b;
 };
 
-class Summer {
+class Adder {
 
   addManyNumbers(numbers) {
     return numbers.reduce(addTwoNumbers, 0);
@@ -10,4 +10,4 @@ class Summer {
 
 }
 
-export default Summer;
+export default Adder;

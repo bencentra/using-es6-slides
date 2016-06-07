@@ -22,6 +22,7 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-babel');
 
-  grunt.registerTask('default', ['babel']);
+  grunt.registerTask('default', ['build']);
+  grunt.registerTask('build', ['babel']);
 
 };
